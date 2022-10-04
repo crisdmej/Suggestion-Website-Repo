@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SuggestionAppUI
+build_property.RootNamespace = SuggestionAppUI
+build_property.ProjectDir = E:\C#\SuggestionApp\SuggestionAppUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\C#\SuggestionApp\SuggestionAppUI
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Pages/AdminApproval.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BcHByb3ZhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Pages/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Pages/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Pages/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Pages/SampleData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FtcGxlRGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Shared/NotAuthorized.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5vdEF1dGhvcml6ZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rozrwl713c
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/SuggestionApp/SuggestionAppUI/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
